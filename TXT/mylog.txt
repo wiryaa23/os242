@@ -12,3 +12,11 @@ ZCZC W00 10 L14 Assignment #04 Course registration
 ZCZC W00 20 L15 Assignment #05 Reading assignment'
 ZCZC W00 10 L16 Assignment #06 Revisit "TXT/mylog.txt"
 ZCZC W00 30 L83 Pets related: feeding and playing
+ZCZC W01 200 L02 CLASSROOM related
+ZCZC W01 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 15 L08 OS Chat related with AsDos
+ZCZC W01 180 L11 Assignment #01
+ZCZC W01 20 L12 Assignment #02
+ZCZC W01 20 L32 YouTube: watching OS related (downloading PowerShell 7)
+ZCZC W01 10 L41 TXT/mylog.txt related
+
