@@ -19,4 +19,6 @@ ZCZC W01 180 L11 Assignment #01
 ZCZC W01 20 L12 Assignment #02
 ZCZC W01 20 L32 YouTube: watching OS related (downloading PowerShell 7)
 ZCZC W01 10 L41 TXT/mylog.txt related
-
+ZCZC W01 30 L13 Assignment #03 Reading assignment
+ZCZC W01 20 L14 Assignment #04 Finishing
+ZCZC W01 10 L05 PopQuiz
