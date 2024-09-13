@@ -22,3 +22,15 @@ ZCZC W01 10 L41 TXT/mylog.txt related
 ZCZC W01 30 L13 Assignment #03 Reading assignment
 ZCZC W01 20 L14 Assignment #04 Finishing
 ZCZC W01 10 L05 PopQuiz
+ZCZC W02 200 L02 CLASSROOM related
+ZCZC W02 10 L05 PopQuiz
+ZCZC W02 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 45 L11 Assignment #01 Reading, watching, and demo related
+ZCZC W02 30 L12 Assignment #02 GnuPG related
+ZCZC W02 5 L13 Assignment #03 Update links.md
+ZCZC W02 15 L14 Assignment #04 Review other student's links
+ZCZC W02 10 L15 Assignment #05 Back up SSH and GPG keys
+ZCZC W02 10 L16 Assignment #06 Assignment Script
+ZCZC W02 20 L17 Assignment #07 Finishing and checking other files
+ZCZC W02 10 L41 TXT/mylog.txt related
+ZCZC W02 30 L83 Pets: Feeding and playing
