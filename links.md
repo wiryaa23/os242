@@ -14,7 +14,8 @@ permalink: LINKS/
   Links to slides with LaTeX sources code.
 * [OS YouTube](https://os.vlsm.org/playlists/) ---
   Links to OS YouTube playlist to help with studying.
+* [Essential Linux Commands](https://www.hostinger.com/tutorials/linux-commands) --- Links to web that contains essential commands for linux.
 <br>
 <br>
-### REV: Fri 06 Sep 2024 09:34
+### REV: Fri 14 Sep 2024 00:49
 <hr>
