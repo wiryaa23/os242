@@ -35,4 +35,13 @@ ZCZC W02 20 L17 Assignment #07 Finishing and checking other files
 ZCZC W02 10 L41 TXT/mylog.txt related
 ZCZC W02 30 L83 Pets: Feeding and playing
 ZCZC W02 5 L41 Update TXT/mylog.txt
+ZCZC W03 200 L02 CLASSROOM related
+ZCZC W03 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 30 L11 Assignment #01 Readings and Demos related
+ZCZC W03 20 L12 Assignment #02 Back up SSH and GPG Keys
+ZCZC W03 60 L13 Assignment #03 Add An Extra Virtual Disk
+ZCZC W03 20 L14 Assignment #04 Assignment Script
+ZCZC W03 25 L15 Assignment #05 Finishing and checking other files
+ZCZC W03 10 L41 TXT/mylog.txt related
+ZCZC W03 30 L83 Pets: Feeding and playing
 
