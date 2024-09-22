@@ -44,4 +44,4 @@ ZCZC W03 20 L14 Assignment #04 Assignment Script
 ZCZC W03 25 L15 Assignment #05 Finishing and checking other files
 ZCZC W03 10 L41 TXT/mylog.txt related
 ZCZC W03 30 L83 Pets: Feeding and playing
-
+ZCZC W03 150 L62 Reinstall Virtual Debian Guest
