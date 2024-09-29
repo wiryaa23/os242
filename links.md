@@ -15,8 +15,10 @@ permalink: LINKS/
 * [OS YouTube](https://os.vlsm.org/playlists/) ---
   Links to OS YouTube playlist to help with studying.
 * [Essential Linux Commands](https://www.hostinger.com/tutorials/linux-commands) --- Links to web that contains essential commands for linux.
-* [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) -- Links to some useful cheat sheet for bash.
+* [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) --- Links to some useful cheat sheet for bash.
+* [C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4) --- Quick intro to C in less than 2 minutes.
+* [Linux Directories in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) --- A little help to learn some linux directories.
 <br>
 <br>
-### REV: Fri 14 Sep 2024 00:49
+### REV: Fri 30 Sep 2024 00:53
 <hr>
