@@ -46,3 +46,12 @@ ZCZC W03 10 L41 TXT/mylog.txt related
 ZCZC W03 30 L83 Pets: Feeding and playing
 ZCZC W03 150 L62 Reinstall Virtual Debian Guest
 ZCZC W03 15 L05 Finish all pop quiz
+ZCZC W04 200 L02 CLASSROOM related
+ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 35 L11 Assignment #01 Readings and Demos related
+ZCZC W03 15 L12 Assignment #02 Back up SSH and GPG Keys
+ZCZC W03 10 L13 Assignment #03 Assignment Script
+ZCZC W03 15 L14 Assignment #04 Compiling TLPI
+ZCZC W03 30 L15 Assignment #05 Finishing
+ZCZC W03 60 L83 Pets: Feeding and playing
+
