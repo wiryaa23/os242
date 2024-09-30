@@ -46,12 +46,16 @@ ZCZC W03 10 L41 TXT/mylog.txt related
 ZCZC W03 30 L83 Pets: Feeding and playing
 ZCZC W03 150 L62 Reinstall Virtual Debian Guest
 ZCZC W03 15 L05 Finish all pop quiz
-ZCZC W04 200 L02 CLASSROOM related
+ZCZC W04 100 L02 CLASSROOM related
+ZCZC W04 20 L05 Zoom meeting for quiz
 ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
-ZCZC W03 35 L11 Assignment #01 Readings and Demos related
-ZCZC W03 15 L12 Assignment #02 Back up SSH and GPG Keys
-ZCZC W03 10 L13 Assignment #03 Assignment Script
-ZCZC W03 15 L14 Assignment #04 Compiling TLPI
-ZCZC W03 30 L15 Assignment #05 Finishing
-ZCZC W03 60 L83 Pets: Feeding and playing
-
+ZCZC W04 35 L11 Assignment #01 Readings and Demos related
+ZCZC W04 15 L12 Assignment #02 Back up SSH and GPG Keys
+ZCZC W04 10 L13 Assignment #03 Assignment Script
+ZCZC W04 15 L14 Assignment #04 Compiling TLPI
+ZCZC W04 30 L15 Assignment #05 Finishing
+ZCZC W04 60 L83 Pets: Feeding and playing
+ZCZC W04 25 L05 Finish all pop quiz
+ZCZC W04 120 L08 OS Chat related with friend
+ZCZC W04 100 L32 YouTube: watching OS related topics
+ZCZC W04 60 L64 Helping a friend (OS related problem)
