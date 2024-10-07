@@ -72,4 +72,5 @@ ZCZC W05 60 L83 Pets: Feeding and playing
 ZCZC W05 30 L64 Helping a friend (OS related problem)
 ZCZC W05 15 L08 OS Chat related with friend
 ZCZC W05 20 L05 Studying some new commands for linux
+ZCZC W05 10 L32 YouTube: watching OS related topics
 
