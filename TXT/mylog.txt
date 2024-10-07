@@ -59,3 +59,17 @@ ZCZC W04 25 L05 Finish all pop quiz
 ZCZC W04 120 L08 OS Chat related with friend
 ZCZC W04 100 L32 YouTube: watching OS related topics
 ZCZC W04 60 L64 Helping a friend (OS related problem)
+ZCZC W05 100 L02 CLASSROOM related
+ZCZC W05 20 L05 Zoom meeting for quiz
+ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 30 L11 Assignment #01 Readings and Demos related
+ZCZC W05 20 L12 Assignment #02 Back up SSH and GPG Keys
+ZCZC W05 120 L13 Assignment #03 Testing to See The Lowest Memory Can be Used
+ZCZC W05 20 L14 Assignment #04 Assignment Script
+ZCZC W05 120 L15 Assignment #05 Memory related
+ZCZC W05 20 L16 Assignment #06 Finishing
+ZCZC W05 60 L83 Pets: Feeding and playing
+ZCZC W05 30 L64 Helping a friend (OS related problem)
+ZCZC W05 15 L08 OS Chat related with friend
+ZCZC W05 20 L05 Studying some new commands for linux
+
