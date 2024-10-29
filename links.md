@@ -20,8 +20,10 @@ permalink: LINKS/
 * [Linux Directories in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) --- A little help to learn some linux directories.
 * [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) --- Explanation about virtual memory in OS.
 * [Pointers in C](https://www.programiz.com/c-programming/c-pointers) --- Introduction to how pointer works in C.
-
+* [Linux Directories in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) --- A little help to learn some linux directories.
+* [Basics of Dynamic Memory Allocation](https://youtu.be/udfbq4M2Kfc?si=PC3E0AgvKQpj8RAt) --- Short Video About Dynamic Memory Allocation in Data Structures.
 <br>
 <br>
-### REV: Mon 7 Oct 2024 14:02
+### REV: Fri 29 Oct 2024 20:29
 <hr>
+

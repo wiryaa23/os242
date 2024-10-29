@@ -73,4 +73,16 @@ ZCZC W05 30 L64 Helping a friend (OS related problem)
 ZCZC W05 15 L08 OS Chat related with friend
 ZCZC W05 20 L05 Studying some new commands for linux
 ZCZC W05 10 L32 YouTube: watching OS related topics
+ZCZC W06 100 L02 CLASSROOM related
+ZCZC W06 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 40 L11 Assignment #01 Readings and Demos related
+ZCZC W06 15 L12 Assignment #02 Back up SSH and GPG Keys
+ZCZC W06 20 L13 Assignment #03 Assignment Script
+ZCZC W06 15 L14 Assignment #04 Fork and Shared Memory related
+ZCZC W06 40 L15 Assignment #05 Finishing
+ZCZC W06 150 L08 OS Chat related with friend
+ZCZC W06 30 L64 Helping a friend (OS related problem)
+ZCZC W06 240 L05 Finish all pop quiz
+ZCZC W06 60 L83 Pets: Feeding and playing
+ZCZC W06 60 L32 YouTube: watching OS related topics
 
