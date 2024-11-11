@@ -97,4 +97,16 @@ ZCZC W07 20 L64 Helping a friend (OS related problem)
 ZCZC W07 180 L05 Finish all pop quiz
 ZCZC W07 60 L83 Pets: Feeding and playing
 ZCZC W07 20 L32 YouTube: watching OS related topics
+ZCZC W08 20 L05 Week06 Quiz via ZOOM
+ZCZC W08 100 L02 CLASSROOM related
+ZCZC W08 30 L11 Assignment #01 Readings and Demos related
+ZCZC W08 10 L12 Assignment #02 Assignment Script
+ZCZC W08 360 L13 Assignment #03 LFS 12.1 Chapter 01-05
+ZCZC W08 25 L14 Assignment #04 Finishing
+ZCZC W08 60 L05 Finish all pop quiz
+ZCZC W08 240 L08 OS Chat related with friend
+ZCZC W08 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 15 L64 Helping a friend (OS related problem)
+ZCZC W08 60 L83 Pets: Feeding and playing
+ZCZC W08 30 L32 YouTube: watching OS related topics
 

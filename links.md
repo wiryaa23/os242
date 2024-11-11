@@ -23,8 +23,9 @@ permalink: LINKS/
 * [Linux Directories in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) --- A little help to learn some linux directories.
 * [Basics of Dynamic Memory Allocation](https://youtu.be/udfbq4M2Kfc?si=PC3E0AgvKQpj8RAt) --- Short Video About Dynamic Memory Allocation in Data Structures.
 * [Docusaurus Tutorial](https://youtube.com/playlist?list=PLY91jl6VVD7wn8SHdWKRg3AAEKbHQYaNL&si=8Hgz--65uvJU43Vr) --- Playlist to learn about docusaurus even deeper.
+* [How to Build Linux From Scratch](https://youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&si=5kWLNKnMSkZkfGaG) --- Playlist to build Linux from scratch with super clear explanations.
 <br>
 <br>
-### REV: Fri 4 Nov 2024 23:12
+### REV: Mon 11 Nov 2024 23:10
 <hr>
 
